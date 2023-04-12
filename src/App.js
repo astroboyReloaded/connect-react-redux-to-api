@@ -1,5 +1,6 @@
+import Users from './components/Users';
 import './App.css';
 
-const App = () => <h1>My App</h1>;
+const App = () => <Users />;
 
 export default App;
