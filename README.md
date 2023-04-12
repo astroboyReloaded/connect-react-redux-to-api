@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# Connect Reacr and Redux with API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a name="readme-top"></a>
 
-## Available Scripts
+<div align="center">
+  <br/>
+  <h3><b>Connect Reacr and Redux with API</b></h3>
+</div>
 
-In the project directory, you can run:
+<!-- TABLE OF CONTENTS -->
 
-### `npm start`
+# 📗 Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [👥 Author](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- PROJECT DESCRIPTION -->
 
-### `npm test`
+# 📖 Connect Reacr and Redux with API <a name="about-project"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+"Connect Reacr and Redux with API" onnects an existing API via Redux and uses the data to display something in a UI
 
-### `npm run build`
+## 🛠 Built With <a name="built-with"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack <a name="tech-stack"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://react.dev/">React.js</a></li>
+    <li><a href="https://redux.js.org/">Redux.js</a></li>
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- Features -->
 
-### `npm run eject`
+### Key Features <a name="key-features"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Components.
+- Fetch data from API.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prerequisites
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [JavaScript](https://www.javascript.com/) + [React.js](https://react.dev/) + [Redux.js](https://redux.js.org/)
+- Make sure you have **Node.js** installed. Check this by running:
+```hs
+node -v
+```
+If you have it, it will display the Node version you have, if not, go to [this website](https://nodejs.org/en) to download it. I recomend you get the "Recomended For Most Users" version.
+### Setup
 
-## Learn More
+- If you wish to work from this project by editing it's code:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+git clone https://github.com/astroboyReloaded/connect-react-redux-to-api.git
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Install
 
-### Code Splitting
+```sh
+npm i
+```
+<!-- AUTHORS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author <a name="authors"></a>
 
-### Analyzing the Bundle Size
+👤 **astroboyReloaded**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- GitHub: [astroboyReloaded](https://github.com/astroboyReloaded)
+- Twitter: [@astroboyReload](https://twitter.com/astroboyReload)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/astroboyreloaded/)
 
-### Making a Progressive Web App
+<!-- CONTRIBUTING -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🤝 Contributing <a name="contributing"></a>
 
-### Advanced Configuration
+Please let me know if you find any issues in this repo's code!
+Feel free to check the [issues page](../../issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- SUPPORT -->
 
-### Deployment
+## ⭐️ Show your support <a name="support"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+If you like my work on this project, please give me a star on this repo. I would also love to read your comment letting me know what you think!
 
-### `npm run build` fails to minify
+<!-- ACKNOWLEDGEMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Thanks to [Microverse](https://www.microverse.org/) for giving me a path to follow in this learning journey!
+> Thanks to my mates, who walk by and share they experiences and knowledge with me during this journey: you make this experience even more valuable!
+> Thanks to [GitHub](https://github.com/) for being so awesome!
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+[MIT](https://mit-license.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
