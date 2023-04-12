@@ -11,7 +11,7 @@ const usersSlice = createSlice({
   initialState,
   reducers: {
     users: (state) => {
-      state.users;
+      console.log(state.users);
     },
   },
   extraReducers: {},
